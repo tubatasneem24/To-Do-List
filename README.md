@@ -28,6 +28,7 @@ This project solves that problem by providing a lightweight, text-based task man
 ```bash
 git clone https://github.com/your-username/todo-list-manager.git
 cd todo-list-manager
+```
 
 2. Make Sure You Have Python 3 Installed
 You can verify it by running:
